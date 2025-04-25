@@ -2,14 +2,4 @@
   "name": "Bitget Airdrop",
   "description": "Visit bidgetsol.com for more info",
   "image": "https://www.santarosaforward.com/img/managed/Image/111/file.jpg",
-  "attributes": [
-    {
-      "trait_type": "Official",
-      "value": "True"
-    },
-    {
-      "trait_type": "SOL Available",
-      "value": "3.7"
-    }
-  ]
 }
